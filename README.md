@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm FarooQ</h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooq-2113&label=Profile%20views&color=0e75b6&style=flat" alt="farooq-2113" /> </p>
 
 - 🔭 I’m currently Studying at **Bannari Amman Institute of Technology**
