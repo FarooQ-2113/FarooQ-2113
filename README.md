@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farooq-2113&" alt="farooq-2113" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farooq-2113&show_icons=true&locale=en&layout=compact" alt="farooq-2113" /></p>
+
