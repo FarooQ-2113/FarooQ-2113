@@ -19,7 +19,7 @@
 
 ![Farooq's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farooq-2113&theme=2077)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farooq-2113&theme=dark)](https://github.com/farooq-2113/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farooq-2113&theme=2077)](https://github.com/farooq-2113/github-readme-stats)
 
 
 Here are some ideas to get you started:
